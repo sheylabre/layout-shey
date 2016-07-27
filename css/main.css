@@ -1,0 +1,128 @@
+.logo{
+	margin-left: 320px;	
+}
+ul{
+	border-top: black 1px solid;
+	width: 620px;
+	border-bottom: black 1px solid;
+	margin: 30px 350px;
+}
+.li{
+	align-self: center;
+	padding: 15px;
+}
+.io{
+	border-right: 1px solid;
+	width: 70px;
+	display: inline;
+}
+li{
+	display: inline;
+	margin: 13px;
+	font-size: 23px;
+} 
+.people{
+	width: 700px;
+	height: auto;
+	margin-left: 320px;
+}
+.linea2{
+	background:black;
+	width: 50px;
+	margin: 30px 0px 30px 630px;
+
+}
+.texto{
+	width: 349px;
+	text-align: center;
+	margin-left: 468px;
+	font-size: 21px;
+}
+#linea{
+	background:black;
+	width: 50px;
+	height: 2px;
+	margin-left: 10px;
+}
+.cuerpo{
+	display: block;
+	width: 710px;
+	height: 500px;
+	margin: 20px 300px;
+}
+.coder{
+	margin-left: 0px;
+}
+.img1{
+	color: rgba(27, 9, 83, 0.3);
+	margin: 10px;
+	display: inline-block;
+	position: relative;
+}
+.nombre{
+	position: absolute;
+	color: white;
+	bottom: 0px;
+	right: 0px;
+}
+.img1{
+	opacity: 1;
+	filter: 1;
+}
+.img1:hover{
+	opacity: 0.5;
+	filter: 1;
+}
+
+/*esto pertenece al segundo còdigo html code-detail.html*/
+.marco{
+	width: 800px;
+	margin: auto;
+	border: 2px solid gray;
+}
+.pro{
+	margin: 25px;
+}
+.prof{
+	border-radius: 100px;
+	width: 140px;
+	height: auto;
+	margin-left: 290px;
+}
+.h1{
+	text-align: center;
+}
+.parrafo{
+	width: 500px;
+	margin-left: 130px;
+	text-align: center;
+}
+.barrasabc{
+	margin: 10px;
+}
+.barraa{
+	padding: 1px 10px;
+	background-color: gray;
+	width: 500px;
+	margin: 25px;
+	color: white;
+}
+.barrab{
+	padding: 1px 10px;
+	background-color: gray;
+	width: 300px;
+	margin: 25px;
+	color: white;
+}
+.barrac{
+	padding: 1px 10px;
+	background-color: gray;
+	width: 150px;
+	margin: 25px;
+	color: white;
+}
+.ig{
+	width: 200px;
+	height: auto;
+	margin: 20px;
+}
